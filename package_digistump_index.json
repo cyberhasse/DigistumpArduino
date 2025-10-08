@@ -14,12 +14,12 @@
           "architecture": "avr",
           "version": "1.6.7",
           "category": "Digistump",
-          "url": "https://github.com/rsrdesarrollo/DigistumpArduino/releases/download/1.6.7/digistump-avr-1.6.7.zip",
+          "url": "https://github.com/cyberhasse/DigistumpArduino/releases/download/1.6.7/digistump-avr-1.6.7.zip",
           "archiveFileName": "digistump-avr-1.6.7.zip",
           "checksum": "SHA-256:86eb89d3cc3add9d29ccb70bf5bf7de9e19d1154f9ded845caec5d0907b2911e",
           "size": "2457992",
           "help": {
-            "online": "https://github.com/rsrdesarrollo/DigistumpArduino/issues"
+            "online": "https://github.com/cyberhasse/DigistumpArduino/issues"
           },
           "boards": [
             {
